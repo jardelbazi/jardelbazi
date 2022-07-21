@@ -2,7 +2,6 @@
 #### Dreamer, love technology, graduated Technologist in Internet Systems, more than 15 years of professional experience linked to the world of technology.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardelbazi)
-[![Blog](https://img.shields.io/website?label=jardel.dev.br&style=for-the-badge&url=https://jardel.dev.br/)](https://www.jardel.dev.br)
 
 ## My Github
 <div align="center">
