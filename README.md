@@ -1,5 +1,7 @@
 # Hello! I'm from Jardel Bazi 🖐️
-#### Dreamer, love technology, graduated Technologist in Internet Systems, more than 15 years of professional experience linked to the world of technology.
+#### Technologist in Internet Systems, 15 years of professional experience linked to the world of technology.
+
+Passionate about technology, self-taught, in my career as a developer I had the opportunity to work in many stages of development of systems, websites, virtual stores. I am a person who likes challenges, working in a team.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardelbazi)
 
