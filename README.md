@@ -16,10 +16,11 @@ Passionate about technology, self-taught, in my career as a developer I had the 
 <div style="display: inline_block">
   <img align="center" alt="laravel" src="https://img.shields.io/badge/LARAVEL-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-4D588E?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="wordpress" src="https://img.shields.io/badge/WORDPRESS-585c60?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img align="center" alt="vue" src="https://img.shields.io/badge/REACT-5ED3F3?style=for-the-badge&logo=react&logoColor=white)" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="wordpress" src="https://img.shields.io/badge/WORDPRESS-585c60?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
@@ -27,6 +28,5 @@ Passionate about technology, self-taught, in my career as a developer I had the 
 
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/NODE.JS-8BBF3D?style=for-the-badge&logo=node.js&logoColor=303030" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/REACT-5ED3F3?style=for-the-badge&logo=react&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-3570A0?style=for-the-badge&logo=python&logoColor=FFE76F" />
 </div>
