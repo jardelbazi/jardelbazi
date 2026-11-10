@@ -21,7 +21,8 @@ Senior Software Engineer com mais de 15 anos de experiência em aplicações web
 
 - 🚀 Atualmente **Full Stack Developer na Tray (Grupo LWSA)**, evoluindo a integração da Marketing Suite com a **Meta Ads API**
 - 🏗️ Experiência com sistemas de alta escala: logística (SEFAZ/CTe), e-commerce SaaS, plataformas acadêmicas e conformidade LGPD
-- 💼 Fundador da **Baziweb**, desenvolvendo soluções digitais sob medida desde 2014
+- 💼 Fundador da **Baziweb**: desenvolvimento web, SaaS, aplicativos na nuvem, SEO e software sob medida desde 2014
+- ✍️ Compartilho conteúdo sobre **PHP, Laravel e boas práticas** no [LinkedIn](https://www.linkedin.com/in/jardelbazi) — 790+ seguidores
 - 📍 Balneário Camboriú — Santa Catarina, Brasil
 
 <br />
@@ -102,34 +103,15 @@ Senior Software Engineer com mais de 15 anos de experiência em aplicações web
 
 <br />
 
-### Projetos em destaque
+### Recomendações
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jardelbazi/sefaz-integration-laravel"><b>sefaz-integration-laravel</b></a><br />
-      <sub>Integração com a SEFAZ em Laravel para documentos fiscais eletrônicos (CTe)</sub><br /><br />
-      <code>PHP</code> <code>Laravel</code> <code>SOAP</code> <code>XML</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jardelbazi/cookin-up"><b>cookin-up</b></a><br />
-      <sub>Aplicação em Vue 3 com Composition API e TypeScript</sub><br /><br />
-      <code>Vue 3</code> <code>TypeScript</code> <code>Vite</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jardelbazi/php-design-pattern-comportamental"><b>php-design-pattern-comportamental</b></a><br />
-      <sub>Design patterns comportamentais em PHP — Strategy, Observer, Command e outros</sub><br /><br />
-      <code>PHP</code> <code>Design Patterns</code> <code>OOP</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jardelbazi/laravel-bank-seeder"><b>laravel-bank-seeder</b></a><br />
-      <sub>Seeder de bancos brasileiros para projetos Laravel</sub><br /><br />
-      <code>PHP</code> <code>Laravel</code> <code>Seeder</code>
-    </td>
-  </tr>
-</table>
+> *"Excelente Profissional. Ótimos conhecimentos técnicos, super responsável e sempre disponível para ajudar os colegas. Recomendo."*
+> — **David Calceti Soares**
+
+> *"Programador excelente, focado nas entregas, sabe trabalhar em equipe, possui um ótimo relacionamento e possui excelência na execução de suas atividades."*
+> — **Leonardo Araújo**
+
+<div align="center"><a href="https://www.linkedin.com/in/jardelbazi"><img src="https://img.shields.io/badge/8%20recomenda%C3%A7%C3%B5es-no%20LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="8 recomendações no LinkedIn" /></a></div>
 
 <br />
 
