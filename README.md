@@ -1,45 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,100:7aa2f7&height=170&section=header&text=Jardel%20Pavan%20Bazi&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=Senior%20Software%20Engineer&descAlignY=64&descSize=18" alt="Jardel Pavan Bazi" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,100:7aa2f7&height=170&section=header&text=Jardel%20Pavan%20Bazi&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=Senior%20Software%20Engineer&descAlignY=64&descSize=18" alt="Jardel Pavan Bazi — Senior Software Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Jardel+Pavan+Bazi;PHP+Specialist+%7C+Laravel+%7C+AWS;Tech+Lead+%7C+Microservices+%7C+REST+APIs" alt="Títulos" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=PHP+%7C+Laravel+%7C+Node.js+%7C+Vue.js;Microservices+%7C+REST+APIs+%7C+AWS;15%2B+anos+construindo+software" alt="PHP, Laravel, Node.js, Vue.js — Microservices, REST APIs, AWS" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Balne%C3%A1rio%20Cambori%C3%BA-SC-1a1b26?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7" alt="Localização" />
-<img src="https://img.shields.io/badge/Atual-Tray%20(LWSA)-1a1b26?style=for-the-badge&logo=rocket&logoColor=7AA2F7" alt="Empresa atual" />
-<img src="https://img.shields.io/badge/Fundador-Baziweb-1a1b26?style=for-the-badge&logo=githubsponsors&logoColor=7AA2F7" alt="Baziweb" />
-<img src="https://img.shields.io/badge/Experi%C3%AAncia-15%2B%20anos-1a1b26?style=for-the-badge&logo=clockify&logoColor=7AA2F7" alt="Experiência" />
+<img src="https://img.shields.io/badge/Balne%C3%A1rio%20Cambori%C3%BA-SC-1a1b26?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7" alt="Balneário Camboriú — SC" />
+<img src="https://img.shields.io/badge/Atual-Tray%20(LWSA)-1a1b26?style=for-the-badge&logo=rocket&logoColor=7AA2F7" alt="Atualmente na Tray (Grupo LWSA)" />
+<img src="https://img.shields.io/badge/Fundador-Baziweb-1a1b26?style=for-the-badge&logo=githubsponsors&logoColor=7AA2F7" alt="Fundador da Baziweb" />
+<img src="https://img.shields.io/badge/Experi%C3%AAncia-15%2B%20anos-1a1b26?style=for-the-badge&logo=clockify&logoColor=7AA2F7" alt="Mais de 15 anos de experiência" />
 
 </div>
 
 <br />
-
-<div align="center">
 
 ### Sobre
 
-Senior Software Engineer com mais de 15 anos de experiência em aplicações web, APIs REST e plataformas de e-commerce, com PHP, Laravel e microsserviços na AWS.<br />
-Hoje sou Full Stack Developer na Marketing Suite da Tray (Grupo LWSA), trabalhando na integração com a Meta Ads API.<br />
-Fundador da Baziweb e baseado em Balneário Camboriú, Santa Catarina.
+Senior Software Engineer com mais de 15 anos de experiência em aplicações web, APIs REST e plataformas de e-commerce, especializado em **PHP, Laravel e microsserviços na AWS**.
 
-</div>
-
-<br />
-
-<div align="center">
-
-### Stack e ferramentas
-
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,js,html,css,nodejs,python,mysql,postgres,mongodb,redis,aws,docker,linux,git,github,githubactions,wordpress&theme=dark" alt="Stack" />
-
-</div>
+- 🚀 Atualmente **Full Stack Developer na Tray (Grupo LWSA)**, evoluindo a integração da Marketing Suite com a **Meta Ads API**
+- 🏗️ Experiência com sistemas de alta escala: logística (SEFAZ/CTe), e-commerce SaaS, plataformas acadêmicas e conformidade LGPD
+- 💼 Fundador da **Baziweb**, desenvolvendo soluções digitais sob medida desde 2014
+- 📍 Balneário Camboriú — Santa Catarina, Brasil
 
 <br />
 
 <div align="center">
 
-### Onde atuei
+### Stack
+
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,js,nodejs,python,mysql,postgres,mongodb,redis,aws,docker,linux,git,githubactions&theme=dark" alt="PHP, Laravel, Vue, TypeScript, JavaScript, Node.js, Python, MySQL, PostgreSQL, MongoDB, Redis, AWS, Docker, Linux, Git, GitHub Actions" />
+
+</div>
+
+<br />
+
+### Experiência
 
 <table>
   <tr>
@@ -47,15 +44,13 @@ Fundador da Baziweb e baseado em Balneário Camboriú, Santa Catarina.
       <b>Tray (Grupo LWSA)</b><br />
       <sub>Full Stack Developer · mai/2025 – atual</sub><br /><br />
       Marketing Suite: automação e performance de vendas para lojistas, com evolução da integração com a Meta Ads API.<br /><br />
-      <code>PHP</code> <code>Laravel</code> <code>Vue.js</code> <code>TypeScript</code> <code>MySQL</code> <code>Docker</code> <code>CI/CD</code><br /><br />
-      <b>Resultado medido:</b> [preencher]
+      <code>PHP</code> <code>Laravel</code> <code>Vue.js</code> <code>TypeScript</code> <code>MySQL</code> <code>Docker</code> <code>CI/CD</code>
     </td>
     <td width="50%" valign="top">
       <b>Total Express</b><br />
       <sub>Senior Backend Developer · abr/2024 – jan/2025</sub><br /><br />
       Modernização de sistemas logísticos legados e microsserviços para processamento de CTe, com integração à SEFAZ.<br /><br />
-      <code>PHP</code> <code>Laravel</code> <code>AWS Lambda</code> <code>SQS</code> <code>SNS</code> <code>S3</code> <code>Python</code><br /><br />
-      <b>Resultado medido:</b> [preencher]
+      <code>PHP</code> <code>Laravel</code> <code>AWS Lambda</code> <code>SQS</code> <code>SNS</code> <code>S3</code> <code>Python</code>
     </td>
   </tr>
   <tr>
@@ -63,15 +58,13 @@ Fundador da Baziweb e baseado em Balneário Camboriú, Santa Catarina.
       <b>Faculdade São Leopoldo Mandic</b><br />
       <sub>Senior PHP Developer · dez/2022 – abr/2024</sub><br /><br />
       Plataforma acadêmica: novas funcionalidades, APIs REST e integração com o ERP TOTVS via SOAP/XML.<br /><br />
-      <code>PHP</code> <code>Laravel</code> <code>Vue.js</code> <code>AWS SQS</code> <code>SOAP</code> <code>Docker</code><br /><br />
-      <b>Resultado medido:</b> [preencher]
+      <code>PHP</code> <code>Laravel</code> <code>Vue.js</code> <code>AWS SQS</code> <code>SOAP</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
       <b>Bagy</b><br />
       <sub>Backend Developer · ago/2021 – jul/2022</sub><br /><br />
       SaaS de e-commerce: refatoração baseada em DDD, evolução da API REST e integrações com gateways de pagamento e logística.<br /><br />
-      <code>PHP</code> <code>Laravel</code> <code>DDD</code> <code>MySQL</code> <code>Redis</code> <code>Docker</code><br /><br />
-      <b>Resultado medido:</b> [preencher]
+      <code>PHP</code> <code>Laravel</code> <code>DDD</code> <code>MySQL</code> <code>Redis</code> <code>Docker</code>
     </td>
   </tr>
   <tr>
@@ -79,15 +72,13 @@ Fundador da Baziweb e baseado em Balneário Camboriú, Santa Catarina.
       <b>TIVIT</b><br />
       <sub>Full Stack Developer · jan/2021 – ago/2021</sub><br /><br />
       Aplicações corporativas de governança e conformidade com a LGPD, com APIs serverless.<br /><br />
-      <code>PHP</code> <code>Node.js</code> <code>AWS Lambda</code> <code>API Gateway</code> <code>DynamoDB</code> <code>SQS</code><br /><br />
-      <b>Resultado medido:</b> [preencher]
+      <code>PHP</code> <code>Node.js</code> <code>AWS Lambda</code> <code>API Gateway</code> <code>DynamoDB</code> <code>SQS</code>
     </td>
     <td width="50%" valign="top">
       <b>Baziweb Sistemas e Soluções</b><br />
       <sub>Founder, Senior Full Stack Developer · nov/2014 – atual</sub><br /><br />
       Empresa própria de soluções digitais sob medida: sistemas web, plataformas SaaS, lojas virtuais, APIs REST e integrações.<br /><br />
-      <code>Laravel</code> <code>PHP</code> <code>WordPress</code> <code>WooCommerce</code> <code>Magento</code> <code>MySQL</code> <code>Docker</code><br /><br />
-      <b>Resultado medido:</b> [preencher]
+      <code>Laravel</code> <code>PHP</code> <code>WordPress</code> <code>WooCommerce</code> <code>Magento</code> <code>MySQL</code> <code>Docker</code>
     </td>
   </tr>
 </table>
@@ -109,18 +100,16 @@ Fundador da Baziweb e baseado em Balneário Camboriú, Santa Catarina.
 
 </details>
 
-</div>
-
 <br />
 
 <div align="center">
 
-### Projetos no GitHub
+### Projetos em destaque
 
 <a href="https://github.com/jardelbazi/sefaz-integration-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=sefaz-integration-laravel&theme=tokyonight&hide_border=true" alt="sefaz-integration-laravel" width="49%" /></a>
 <a href="https://github.com/jardelbazi/cookin-up"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=cookin-up&theme=tokyonight&hide_border=true" alt="cookin-up" width="49%" /></a>
 <a href="https://github.com/jardelbazi/php-design-pattern-comportamental"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=php-design-pattern-comportamental&theme=tokyonight&hide_border=true" alt="php-design-pattern-comportamental" width="49%" /></a>
-<a href="https://github.com/jardelbazi/imobiliaria-app-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=imobiliaria-app-&theme=tokyonight&hide_border=true" alt="imobiliaria-app-" width="49%" /></a>
+<a href="https://github.com/jardelbazi/laravel-bank-seeder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=laravel-bank-seeder&theme=tokyonight&hide_border=true" alt="laravel-bank-seeder" width="49%" /></a>
 
 </div>
 
@@ -128,31 +117,16 @@ Fundador da Baziweb e baseado em Balneário Camboriú, Santa Catarina.
 
 <div align="center">
 
-### Atividade no GitHub
+### Atividade
 
-<img src="https://streak-stats.demolab.com/?user=jardelbazi&theme=tokyonight&hide_border=true" alt="Sequência de commits" height="170" />
-
-<br /><br />
-
-<!-- Para incluir repositórios privados: hospede sua própria instância do github-stats-extended (token com permissão repo nas variáveis de ambiente) e troque o domínio abaixo pelo seu. -->
-<img src="https://github-stats-extended.vercel.app/api?username=jardelbazi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelbazi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="180" />
+<img src="https://streak-stats.demolab.com/?user=jardelbazi&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" height="170" />
 
 <br /><br />
 
-<img src="https://github-trophies.vercel.app/?username=jardelbazi&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Troféus do GitHub" width="100%" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jardelbazi&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" width="100%" />
-
-<br /><br />
-
-<img src="https://ghchart.rshah.org/7aa2f7/jardelbazi" alt="Gráfico de contribuição" width="90%" />
-
-<br /><br />
-
-[[cobra aqui]]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jardelbazi/jardelbazi/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jardelbazi/jardelbazi/output/github-snake-light.svg" alt="Animação da cobrinha nas contribuições" width="100%" />
+</picture>
 
 </div>
 
