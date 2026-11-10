@@ -102,16 +102,34 @@ Senior Software Engineer com mais de 15 anos de experiência em aplicações web
 
 <br />
 
-<div align="center">
-
 ### Projetos em destaque
 
-<a href="https://github.com/jardelbazi/sefaz-integration-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=sefaz-integration-laravel&theme=tokyonight&hide_border=true" alt="sefaz-integration-laravel" width="49%" /></a>
-<a href="https://github.com/jardelbazi/cookin-up"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=cookin-up&theme=tokyonight&hide_border=true" alt="cookin-up" width="49%" /></a>
-<a href="https://github.com/jardelbazi/php-design-pattern-comportamental"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=php-design-pattern-comportamental&theme=tokyonight&hide_border=true" alt="php-design-pattern-comportamental" width="49%" /></a>
-<a href="https://github.com/jardelbazi/laravel-bank-seeder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jardelbazi&repo=laravel-bank-seeder&theme=tokyonight&hide_border=true" alt="laravel-bank-seeder" width="49%" /></a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jardelbazi/sefaz-integration-laravel"><b>sefaz-integration-laravel</b></a><br />
+      <sub>Integração com a SEFAZ em Laravel para documentos fiscais eletrônicos (CTe)</sub><br /><br />
+      <code>PHP</code> <code>Laravel</code> <code>SOAP</code> <code>XML</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jardelbazi/cookin-up"><b>cookin-up</b></a><br />
+      <sub>Aplicação em Vue 3 com Composition API e TypeScript</sub><br /><br />
+      <code>Vue 3</code> <code>TypeScript</code> <code>Vite</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jardelbazi/php-design-pattern-comportamental"><b>php-design-pattern-comportamental</b></a><br />
+      <sub>Design patterns comportamentais em PHP — Strategy, Observer, Command e outros</sub><br /><br />
+      <code>PHP</code> <code>Design Patterns</code> <code>OOP</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jardelbazi/laravel-bank-seeder"><b>laravel-bank-seeder</b></a><br />
+      <sub>Seeder de bancos brasileiros para projetos Laravel</sub><br /><br />
+      <code>PHP</code> <code>Laravel</code> <code>Seeder</code>
+    </td>
+  </tr>
+</table>
 
 <br />
 
