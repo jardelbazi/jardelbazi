@@ -31,7 +31,7 @@ Senior Software Engineer com mais de 15 anos de experiência em aplicações web
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,js,nodejs,python,mysql,postgres,mongodb,redis,aws,docker,linux,git,githubactions&theme=dark" alt="PHP, Laravel, Vue, TypeScript, JavaScript, Node.js, Python, MySQL, PostgreSQL, MongoDB, Redis, AWS, Docker, Linux, Git, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,vue,ts,js,html,css,vite,mysql,postgres,mongodb,redis,dynamodb,aws,docker,nginx,linux,bash,git,github,githubactions,wordpress&theme=dark&perline=8" alt="PHP, Laravel, Node.js, Python, Vue, TypeScript, JavaScript, HTML, CSS, Vite, MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, AWS, Docker, Nginx, Linux, Bash, Git, GitHub, GitHub Actions, WordPress" />
 
 </div>
 
